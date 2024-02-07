@@ -16,7 +16,7 @@
 --| DESCRIPTION   :  This file implements the thirtyOneDaMonth lab.  Using a 4
 --| switch input, the circuit will light up whenever the 4 switches represent a
 --| month with 31 days
---|
+--|Documentation Statement: C3C Marbach helped me understand line 84. I used the VHDL reference and his advice to create lines 85-92. No other resources were used to complete this assignment.
 --|
 --+----------------------------------------------------------------------------
 --|
